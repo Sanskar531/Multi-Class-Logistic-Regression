@@ -1,0 +1,2 @@
+# Multi Class Logistics Regression Model
+Made using individual logistic regressor and one vs all concepts. Regularization was also added in order to not rish over fitting the data given. The cost function used was cross entropy function. 
